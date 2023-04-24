@@ -1,0 +1,11 @@
+sbehl_74@yahoo.com
+Gitpwd-2023
+sanjanabehl
+
+
+ryan@twobit.solutions
+
+https://twobitsolutions.notion.site/Git-Intermediate-cd1af1d9330249f09299d27f8828bf62
+
+
+AutoCorrect cmds typed in - git config --global help.autoCorrect "prompt"
